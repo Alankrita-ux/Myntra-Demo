@@ -1,0 +1,396 @@
+#nav-bar ul li a.nav-link {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+#nav-bar .navbar {
+  background-color: #fff;
+}
+
+#nav-bar .nav-link {
+  color: black;
+}
+
+#nav-bar .form {
+  margin-right: 5px;
+}
+
+#nav-bar .fa-user {
+  font-size: 25px;
+  color: rgb(160, 159, 159);
+  margin-left: 10px;
+}
+
+#nav-bar .fa-shopping-cart {
+  font-size: 25px;
+  color: rgb(160, 159, 159);
+  margin-top: 4px;
+  margin-left: 2px;
+}
+
+#nav-bar .fa-heart {
+  font-size: 25px;
+  color: rgb(160, 159, 159);
+  margin-top: 4px;
+  margin-left: 15px;
+}
+
+#nav-bar h6 {
+  font-size: 15px;
+  color: rgb(160, 159, 159);
+  text-align: center;
+  margin-right: 2px;
+}
+
+#nav-bar .search-wrapper {
+  width: 50%;
+  padding: 0%;
+  margin-top: 0;
+  position: relative;
+}
+
+#nav-bar .search-wrapper .fa-search {
+  position: absolute;
+  left: 170px;
+  top: 10px;
+  color: rgb(173, 173, 173);
+}
+
+#nav-bar .search {
+  border: 1px solid #eee;
+  border-radius: 3px;
+  padding: 5px;
+  background-color: #eee;
+  width: 70%;
+  margin-left: 25%;
+  padding-left: 80px;
+}
+
+#nav-bar .search:focus {
+  background-color: #fff;
+  outline: none;
+}
+
+#nav-bar .navbar {
+  box-shadow: 5px 5px rgb(250, 250, 250);
+  padding: 20px;
+}
+
+/*--------slider-------*/
+#slider {
+  margin-top: 10%;
+}
+
+#slider .carousel-inner img {
+  width: 100%;
+  max-height: 350px;
+}
+
+/*-------slider 2--------*/
+
+#slider2 {
+  border: 5px solid red;
+  position: relative;
+  margin-top: 25px;
+}
+
+#slider2 {
+  padding-top: 30px;
+}
+
+#slider3 span {
+  font-weight: 300;
+}
+
+#slider3 h1 {
+  margin-top: 80px;
+}
+
+/*--------rebate-------*/
+
+#rebate span {
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+}
+
+#rebate h3 {
+  font-size: 15px;
+  font-weight: 500;
+  color: grey;
+  margin-left: 30px;
+}
+
+#rebate {
+  box-shadow: 2px grey;
+}
+
+/*-----------categories-----------*/
+
+#categories .col-md-3 img {
+  height: 60%;
+  width: 60%;
+}
+
+#categories h2 {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+}
+
+/*---------brands-------*/
+
+#brands img {
+  height: 60%;
+  width: 60%;
+  margin-top: 15px;
+}
+
+#brands h3 {
+  font-size: 20px;
+  text-align: left;
+}
+
+/*-------banner-------*/
+
+#banner .main {
+  height: 250px;
+  width: 100%;
+}
+
+#banner .ban {
+  position: relative;
+  margin: 20px;
+}
+
+#banner .donation {
+  height: 60px;
+  width: 55px;
+  transform: rotate(-90deg);
+  display: inline-block;
+}
+
+#banner .caption h2 {
+  font-size: 40px;
+  font-weight: 600;
+  color: red;
+}
+
+#banner .caption h4 {
+  font-size: 12px;
+  font-weight: 300;
+  color: red;
+}
+
+#banner .caption h3 {
+  background-color: red;
+  width: 60%;
+  text-align: center;
+  color: #fff;
+  border-radius: 20px;
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+#banner .caption {
+  z-index: 1;
+  margin: auto;
+  position: absolute;
+  top: 50px;
+  left: 200px;
+}
+
+#banner .caption h1 {
+  font-size: 25px;
+  letter-spacing: 2px;
+  color: #fff;
+}
+
+/*------display--------*/
+
+#display img {
+  margin-top: 50px;
+  height: 300px;
+  width: 100%;
+}
+
+/*----------quarantine-------*/
+
+#quarantine img {
+  width: 90%;
+  height: 90%;
+  padding: 0;
+  position:relative;
+}
+
+#quarantine .caption {
+position:absolute;
+margin:auto;
+top: 20px;
+left: 20px;
+z-index:1 ;
+}
+
+
+#quarantine .caption h2{
+  font-size: 20px;
+  margin-top: 40px;
+  margin-left: 15px;
+  
+}
+
+
+#quarantine .caption .main{
+  color: #fff;
+  margin-left:15px ;
+}
+
+
+#quarantine .caption h3{
+  color:#fff ;
+  margin-left: 15px;
+}
+
+
+#quarantine .caption .top{
+  color:black;
+  margin-left:35px ;
+  margin-bottom: 30px;
+}
+
+
+#quarantine .caption h1{
+  margin-left: 80px;
+  margin-top: 25px;
+}
+
+
+#quarantine .caption .first{
+  margin-left: 15px;
+  margin-top: 60px;
+
+}
+
+/*---------colours---------*/
+
+#colours img{
+  height: 80%;
+  width: 80%;
+}
+ 
+#colours h1{
+  font-size: 30px;
+  font-weight: 500;
+}
+
+#colours span{
+  font-family: 'Dancing Script', cursive;
+  font-weight: 600;
+}
+
+#colours h3{
+  font-size: 20px;
+  font-weight: 400;
+}
+
+#colours h2{
+  font-size: 30px;
+  text-align: center;
+}
+
+#colours{
+  background-color: peachpuff;
+}
+
+/*-------essentials-------*/
+
+#essentials {
+  background: #F8F9FA;
+  padding: 70px;
+  margin-top: 30px;
+}
+
+#essentials img{
+  height: 90%;
+  width: 90%;
+  border-radius: 15px;
+  position: relative;
+}
+
+#essentials .caption{
+  position: absolute;
+  bottom: 50px;
+  margin: auto;
+  left: 80px;
+  z-index: 1; 
+}
+
+#essentials h3{
+  font-size: 13px;
+  margin-top: 20px;
+}
+
+#essentials span{
+  font-family: 'Dancing Script', cursive;
+}
+
+#essentials h2{
+  font-size: 30px;
+  font-weight: 400;
+}
+
+#essentials h4{
+ margin-left: 90px;
+  background-color: orangered;
+  width: 30%;
+  border-radius: 10px;
+}
+
+/*--------footer--------*/
+
+#footer h4{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#footer h5{
+  font-size: 15px;
+  font-weight: 400;
+  color: grey;
+}
+
+#footer img{
+  height:12%;
+  width: 110%;
+  margin-top: 30px;
+}
+
+#footer li{
+  list-style-type: none;
+}
+
+#footer .icons-container {
+  width: 50%;
+  display: flex;
+  padding: 0;
+  justify-content: space-between;
+  color: grey;
+}
+
+#footer .original{
+  height: 50px;
+  width: 50px;
+}
+
+#footer .text {
+  margin: 35px 0 0 10px;
+}
+
+#footer strong{
+  color: black;
+}
+
+#footer{
+  background-color: #F8F9FA;
+  margin-top: 60px;
+}
